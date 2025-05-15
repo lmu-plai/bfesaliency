@@ -1,8 +1,8 @@
 # bfesaliency
 
-This repository contains the data for the paper "Which Instructions Matter the Most: A Saliency Analysis of Binary Function Embedding Models", published at DLSP 2025.
+This repository contains the data for the paper "Which Instructions Matter the Most: A Saliency Analysis of Binary Function Embedding Models", [published](https://www.plai.ifi.lmu.de/publications/dlsp2025-calltargets.pdf) at DLSP 2025.
 
-You can find the authors' contact information [here](https://www.plai.ifi.lmu.de/people/employees/dannehl/index.html)
+You can find the authors' contact information [here](https://www.plai.ifi.lmu.de/people/employees/dannehl/index.html).
 
 
 ## Citation
